@@ -1,0 +1,2 @@
+public class HMW01 {
+}
